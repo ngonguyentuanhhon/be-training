@@ -12,7 +12,7 @@
 -   cherry-pick
 -   resolve conflict
 
-### HTTP & Web basics
+### HTTP & Web basics (nắm basic về khái niệm)
 
 -   request/response
 -   headers
@@ -22,7 +22,7 @@
 -   RESTful API
 -   CORS
 
-### Basic Linux:
+### Basic Linux: (nâng cao)
 
 -   file permission (`chmod`, `chown`)
 -   process (`ps`, `kill`)
@@ -84,17 +84,6 @@
 -   match
 -   attributes
 
-### Design patterns
-
--   service layer
--   repository
--   factory
--   strategy
--   singleton
-...
-
-> Design patterns: chua cần ứng dụng luôn , sau khi thành thạo laravel rồi thì quay lại tìm hiểu và áp dụng , hiểu khai niệm và công dụng là được
-
 ------------------------------------------------------------------------
 
 ## 4. Laravel Core
@@ -132,6 +121,17 @@
 
 -   session auth
 -   Jwt token
+
+### Design patterns (nâng cao)
+
+-   service layer
+-   repository
+-   factory
+-   strategy
+-   singleton
+...
+
+> Design patterns: chua cần ứng dụng luôn , sau khi thành thạo laravel rồi thì quay lại tìm hiểu và áp dụng , hiểu khai niệm và công dụng là được
 
 ------------------------------------------------------------------------
 
