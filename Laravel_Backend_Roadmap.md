@@ -9,7 +9,6 @@
 -   branch
 -   merge / rebase
 -   stash
--   cherry-pick
 -   resolve conflict
 
 ### HTTP & Web basics (nắm basic về khái niệm)
